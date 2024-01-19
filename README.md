@@ -1,27 +1,96 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://pthengane.io)
-<h1 align="center">Hi 👋, I'm Pratik Thengane</h1>
-<h3 align="center">A Passionate Machine Learner </h3>
+# Pratik Thengane
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 📞 +91 9022808933
+- ✉️ [pratik.thengane.ex@ghrce.raisoni.net](mailto:pratik.thengane.ex@ghrce.raisoni.net)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pratikthengane)
 
-- 🔭 I’m currently Pursuing B-Tech from [GHRCE, Nagpur](https://ghrce.raisoni.net/)
+---
 
-- 🌱 I’m currently learning **Robot Operating System (ROS)**
+## Education
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Deep Learning**
+**G. H. Raisoni College of Engineering**, Nagpur(MH), India  
+* B. Tech, Electronics Engineering  
+* Jan 2021 -- Present  
+* CGPA: 8.48/10  
 
-- 📫 How to reach me **pratik.thengane.ex@ghrce.raisoni.net**
+---
 
-- ⚡ Fun fact **I am a Night Owl.**
+## Experience
 
+**InternPe** (Oct 2023 -- Nov 2023)  
+*Research Intern (Remote), Nagpur(MH), India*
+- Worked on deep learning model for early breast cancer detection using mammography images.
+- Implemented hybrid thresholding, wavelet transform, and an artificial neural network for precise classification of benign and malignant cases.
+- Conducted comprehensive testing and evaluation on benchmark mammogram image datasets.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pratikthengane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikthengane" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pratik.thengane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pratik.thengane/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_patrik.2216/?igsh=bmlhdTdvamN2NXJh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_patrik.2216" height="30" width="40" /></a>
-</p>
+**VedAI Pvt Ltd.** (Jun 2022 -- Jul 2022)  
+*Summer Intern (Machine Learning), Bangalore, India*
+- Implemented a conditional generative adversarial network (cGAN) model for text-to-image synthesis.
+- Generated diverse variations of birds and flowers using text-to-image synthesis techniques.
+- Converted Caltech-UCSD Birds 200 and Oxford Flowers datasets into hdf5 format.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></a> </p>
+---
 
+## Projects
+
+- **Multi-Modal Handwritten Text Generation with Diffusion Models** (Jan 2023 -- Jun 2023)
+  - Generated handwritten text using multi-modal models.
+  - Explored synergistic integration of textual context and image features in PyTorch-based techniques for synthesizing handwritten text.
+
+- **AutoRegressive Diffusion Model for Realistic Talking Face Generation** (Aug 2022 -- Dec 2022)
+  - Implemented autoregressive diffusion model for talking face generation.
+  - Achieved natural head movements, facial expressions, and intricate gestures like blinks while preserving background context.
+
+- **Adapted Transformer Architecture for Accurate Handwritten Text Recognition** (Jan 2022 -- May 2022)
+  - Developed HTR system utilizing PyTorch, trained on diverse offline datasets.
+  - Implemented modifications to a Transformer model for improved handwritten text recognition.
+
+- **YOLOv4-Powered Social Distancing Checker for Pandemic Safety** (Aug 2021 -- Dec 2021)
+  - Implemented COVID-19 social distancing detector using OpenCV and YOLO object detection framework.
+
+---
+
+## Skills & Interest
+
+- **Languages**: C/C++, Python, MATLAB
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, Flask
+- **Tools**: Git, Overleaf, Pycharm, VS code
+- **Platforms**: Linux, Windows
+- **Interest**: Computer Vision, Machine Learning, Generative Modelling, GANs, Space Science, Diffusion Models
+
+---
+
+## Achievements
+
+- Completed Specialized Training by ISRO: Successfully finished a training program titled "Overview of Space Science and Technology" facilitated by the Indian Space Research Organisation (ISRO).
+
+---
+
+## Relevant Coursework
+
+Python Programming, Introduction to Machine Learning, Digital Signal Processing, Image Processing, Introduction to Robotics, Blockchain and Its Applications, Linear Algebra, Calculus, Differential Equations
+
+---
+
+## Workshop Attended
+
+- **Machine Learning Bootcamp** (Aug 2021 -- Sep 2021): Organized by IEEE Computer Society GHRCE Nagpur. Implemented machine learning algorithms and models, developed practical skills in data preprocessing, feature engineering, and model evaluation.
+
+- **C Bootcamp** (Oct 2021 -- Nov 2021): Organized by IEEE Computer Society GHRCE Nagpur. Acquired a strong foundational understanding of the C programming language.
+
+---
+
+## Volunteering
+
+**Anmol Art Foundation** (Oct 2023 -- Present)  
+*Social Worker (On-Site), Nagpur(MH), India*
+- Led "KOSHISH" initiative, a large-scale donation drive providing essential clothing to underprivileged individuals in Nagpur.
+- Collaborated with local communities, volunteers, and organizations to organize and execute the donation drive effectively.
+
+---
+
+## Contact
+
+Feel free to reach out to me at [pratik.thengane.ex@ghrce.raisoni.net](mailto:pratik.thengane.ex@ghrce.raisoni.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/pratikthengane).
+
+Last updated: January 2024
