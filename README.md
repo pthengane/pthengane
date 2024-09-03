@@ -1,12 +1,13 @@
 <h1 align=>Hello! 👋</h1>
 
-I'm Pratik Thengane, a recent graduate from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/), Nagpur, India, where I earned a CGPA of 8.5/10. Currently, I'm working as a research assistant at the [University of Surrey](https://www.surrey.ac.uk/), UK. Where, I am working on efficient audio processing methods using modern architectures like Mamba and xLSTM. These methods replace heavy attention mechanisms, delivering strong performance while reducing computational demands on datasets like AudioSet, VGGSound, and Epic-Sounds.
+I am Pratik Thengane, a recent graduate from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/), Nagpur, India, where I earned a CGPA of 8.5/10. Currently, I'm working as a research assistant at the [University of Surrey](https://www.surrey.ac.uk/), UK. Where, I am working on efficient audio processing methods using modern architectures like Mamba and xLSTM. These methods replace heavy attention mechanisms, delivering strong performance while reducing computational demands on datasets like AudioSet, VGGSound, and Epic-Sounds.
 
 ### 💡 My Passion and Expertise:
-I'm passionate about machine learning and computer vision, with a keen interest in applying these technologies to the dynamic field of robotics. 🤖 Eager to leverage the knowledge and skills acquired during my academic pursuits and internships, I am determined to make meaningful contributions to the field of machine learning and robotics.
+I am passionate about advancing the fields of computer vision and machine learning, focusing on developing innovative and efficient solutions across various domains. My interests include generative modeling, such as GANs, diffusion models, and exploring new applications in these areas. My curiosity extends to space science, supported by specialized training with [ISRO](https://www.isro.gov.in/), and I am dedicated to leveraging my skills in Python, C/C++, MATLAB, and frameworks like PyTorch, TensorFlow, and OpenCV to drive both technological advancements and social impact 🌍.
+
 
 ### 🔭 Research Experience:
-🌟 As a Research Intern at [Maharashtra Remote Sensing Application Center (MRSAC)](https://mrsac.gov.in/MRSAC/) Government Of Maharashtra, India (Dec 2023 - Jun 2024), I have worked on developing a facial movements-based HCI that uses a regular webcam to control the mouse cursor by detecting facial landmarks, enabling actions like squinting, winking, head movements, and slight mouth openings using Eye-Aspect-Ratio (EAR) and Mouth-Aspect-Ratio (MAR).
+🌟 As a Research Intern at [Maharashtra Remote Sensing Application Center (MRSAC)](https://mrsac.gov.in/MRSAC/) Government Of Maharashtra, India (Dec 2023 - Jun 2024), I have worked on developing a facial movements-based HCI that uses a regular webcam to control the mouse cursor by detecting facial landmarks using Eye-Aspect-Ratio (EAR) and Mouth-Aspect-Ratio (MAR).
 
 🌟 As a Research Intern at [InternPe](https://internpe.in/) (Oct 2023 - Nov 2023), I immersed myself in the field of medical imaging. I developed a deep learning model for early breast cancer detection using mammography images. My work encompassed implementing hybrid thresholding, wavelet transform, and an artificial neural network, followed by rigorous testing and evaluation on benchmark mammogram datasets.
 
